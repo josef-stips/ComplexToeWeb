@@ -1,0 +1,12 @@
+{
+  "name": "complextoeweb",
+  "version": "1.0.0",
+  "description": "secret complex toe website for friends",
+  "license": "ISC",
+  "author": "josef-stips",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
